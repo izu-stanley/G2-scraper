@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jul  3 18:14:02 2019
- 
+   
 @author: nightking
 """
 from bs4 import BeautifulSoup
