@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jul  3 18:14:02 2019
-   
+Created on Wed Jul  3 18:14:02 2019  
 @author: nightking
 """
 from bs4 import BeautifulSoup
