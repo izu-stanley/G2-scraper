@@ -4,6 +4,7 @@
 Created on Wed Jul  3 18:14:02 2019  
 @author: nightking
 """
+
 from bs4 import BeautifulSoup
 import requests
 from selenium import webdriver
